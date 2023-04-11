@@ -3,6 +3,7 @@ body{
 	max-width: 40em;
 	padding: 0 0.62em;
 	font: 1.2em/1.62 sans-serif;
+	line-height: 1.4;
 	color: #a89984;
 	background-color: #282828;
 }
@@ -10,10 +11,6 @@ body{
 h1, h2, h3 {
 	line-height: 1.2;
 	color: #ebdbb2;
-}
-
-h2 {
-	font: 22px sans-serif bold;
 }
 
 p {
@@ -26,17 +23,12 @@ a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 }
 
- dd {
-  display: block;
-  margin-left: 40px;
-}
-
 footer {
 	padding-top: 2em;
 }
 
 footer a {
-	font-size: 11px;
+	font-size: 0.6em;
 }
 
 .nav_menu {
